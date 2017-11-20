@@ -2,7 +2,7 @@
 
 ?>
 <head>
-<title>Online-school</title>
+<title>"Онлайн-школа"</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
@@ -18,22 +18,22 @@
   <div class="navbar navbar-default">
     <div class='container-fluid'>
       <ul class='nav navbar-nav navbar-right'>
-      <li> <a href=reg.php class='navbar-brand'>Sign-up</a> <li>
-          <li> <a href='#' class='navbar-brand'>Sign-in</a> <li>
+      <li> <a href=reg.php class='navbar-brand'>Зарегестрироваться</a> <li>
+          <li> <a href='#' class='navbar-brand'>Войти</a> <li>
       </ul>
-      <div class="navbar-brand">OSchool</div>
+      <div class="navbar-brand">"Онлайн-школа"</div>
       <ul class = 'nav navbar-nav navbar-left' style="margin-left:50px">
-        <li><a href="index.php">Main Page</a></li>
-        <li><a href="#">Courses</a></li>
-        <li><a href="#">Contacts</a></li>
+        <li><a href="index.php">На главную</a></li>
+        <li><a href="#">Курсы</a></li>
+        <li><a href="#">Контакты</a></li>
 
       </ul>
 </div>
     </div>
     <!-- #header -->
 <div class="container-fluid" style="background-color:#e0dedc;">
-<h1> Welcome </h1>
-<p> Currently you are on online web-school site. </p>
+<h1> Добро пожаловать </h1>
+<p> Вы находитесь на сайте "Онлайн-Школа". </p>
 </div>
 
 
