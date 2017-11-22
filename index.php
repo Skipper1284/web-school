@@ -2,6 +2,9 @@
 
 ?>
 <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width-device-width, initial-scale1.0">
+
 <title>"Онлайн-школа"</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -11,6 +14,7 @@
 
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="css/main.css">
 </head>
 
 <body>
@@ -31,9 +35,10 @@
 </div>
     </div>
     <!-- #header -->
-<div class="container-fluid" style="background-color:#e0dedc;">
+<div id="help" class="container-fluid" >
 <h1> Добро пожаловать </h1>
-<p> Вы находитесь на сайте "Онлайн-Школа". </p>
+
+<h2> Вы находитесь на сайте "Онлайн-Школа". </h2>
 </div>
 
 

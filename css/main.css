@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+
+body {
+  font-family: "Lato";
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family:"Raleway";
+  font-weight:300;
+  color:#333;
+}
+
+p {
+  line-height: 25px;
+  margin-bottom: 25px;
+}
+
+.navbar-inverse {
+
+}
+
+.navbar {
+
+
+  outline-color: #333333;
+
+}
+
+#help {
+
+  background-image: url(../img/picture2.png);
+  margin-top: -20px;
+  padding-top: 20px;
+
+  text-align:center;
+  min-height:500px;
+}
+
+.form-group {
+  text-align:center;
+}
