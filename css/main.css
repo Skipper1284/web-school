@@ -30,8 +30,8 @@ p {
 
   background-image: url(../img/picture2.png);
   margin-top: -20px;
-  padding-top: 20px;
-
+  padding-top: 100px;
+  color:#FFFFFF;
   text-align:center;
   min-height:500px;
 }

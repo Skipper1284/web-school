@@ -25,7 +25,8 @@
       <li> <a href=reg.php class='navbar-brand'>Зарегестрироваться</a> <li>
           <li> <a href='#' class='navbar-brand'>Войти</a> <li>
       </ul>
-      <div class="navbar-brand">"Онлайн-школа"</div>
+      <div class="navbar-brand" >"Онлайн-школа"</div>
+
       <ul class = 'nav navbar-nav navbar-left' style="margin-left:50px">
         <li><a href="index.php">На главную</a></li>
         <li><a href="#">Курсы</a></li>
@@ -36,9 +37,17 @@
     </div>
     <!-- #header -->
 <div id="help" class="container-fluid" >
-<h1> Добро пожаловать </h1>
+<h1 style="color:#FFFFFF; color: black;
+   -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+   font-size:50px;"> Добро пожаловать </h1>
 
-<h2> Вы находитесь на сайте "Онлайн-Школа". </h2>
+<h2 style="color: black;
+   -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+   font-size:40px;" > Вы находитесь на сайте "Онлайн-Школа" </h2>
 </div>
 
 
