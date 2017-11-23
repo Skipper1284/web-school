@@ -62,8 +62,8 @@
 
 
     <!-- #footer -->
-     <div class="navbar navbar-inverse navbar-fixed-bottom">
-       <div class='container-fluid'>
+     <div class="footer">
+       <div class='container-fluid footer'>
          <p>Polyakov Daniel</p>
          <p>2017</p>
        </div>

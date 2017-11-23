@@ -25,7 +25,7 @@
       <li> <a href=reg.php class='navbar-brand'>Зарегестрироваться</a> <li>
           <li> <a href='#' class='navbar-brand'>Войти</a> <li>
       </ul>
-      <div class="navbar-brand" >"Онлайн-школа"</div>
+      <div class="navbar-brand" id='logo' >"Онлайн-школа"</div>
 
       <ul class = 'nav navbar-nav navbar-left' style="margin-left:50px">
         <li><a href="index.php">На главную</a></li>
@@ -35,6 +35,8 @@
       </ul>
 </div>
     </div>
+
+
     <!-- #header -->
 <div id="help" class="container-fluid" >
 <h1 style="color:#FFFFFF; color: black;
@@ -64,16 +66,20 @@
 ;"
     > Вы находитесь на сайте "Онлайн-Школа" </h2>
 </div>
-
+<div class="container-fluid">
+<div class="row">
+ <div class="col-sm-4 tpk" ><h2>Учеба в интернете - легко!</h2><br><p>Изучайте интересующие вас темы прямо в интернете в любое время! </p></div>
+ <div class="col-sm-4 tpk" ><h2>Удобный интерфейс</h2><br><p>Все просто и интуитивно понятно. Вы легко найдете на сайте те курсы, которые вам больше всего подходят!</p></div>
+ <div class="col-sm-4 tpk" ><h2>Вы преподаватель?</h2><br><p>С нашей системой создания курсов делиться знаниями стало намного проще!</p></div>
+</div>
+</div>
 
 <!-- #footer -->
- <div class="navbar navbar-inverse navbar-fixed-bottom">
-   <div class='container-fluid'>
-     <p>Polyakov Daniel</p>
-     <p>2017</p>
-   </div>
-
- </div>
+<div class="footer">
+  <div class='container-fluid'>
+    <p style="margin-top:20px;">Polyakov Daniel</p>
+    <p>2017</p>
+  </div>
 <!-- #footer -->
 
 </body>
