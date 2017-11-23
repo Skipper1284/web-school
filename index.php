@@ -41,13 +41,28 @@
    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
    -webkit-text-stroke-width: 1px;
    -webkit-text-stroke-color: black;
-   font-size:50px;"> Добро пожаловать </h1>
+   font-size:50px;
+   text-shadow:
+  0 1px 0 rgba(0,0,0,.9),
+  0 2px 0 rgba(0,0,0,.8),
+  0 3px 0 rgba(0,0,0,.7),
+  0 4px 0 rgba(0,0,0,.6)
+ /* И т.д. */
+;"> Добро пожаловать </h1>
 
 <h2 style="color: black;
    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
    -webkit-text-stroke-width: 1px;
    -webkit-text-stroke-color: black;
-   font-size:40px;" > Вы находитесь на сайте "Онлайн-Школа" </h2>
+   font-size:50px;
+   text-shadow:
+  0 1px 0 rgba(0,0,0,.9),
+  0 2px 0 rgba(0,0,0,.8),
+  0 3px 0 rgba(0,0,0,.7),
+  0 4px 0 rgba(0,0,0,.6)
+ /* И т.д. */
+;"
+    > Вы находитесь на сайте "Онлайн-Школа" </h2>
 </div>
 
 

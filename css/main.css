@@ -24,6 +24,7 @@ p {
 
   outline-color: #333333;
 
+
 }
 
 #help {
@@ -31,11 +32,17 @@ p {
   background-image: url(../img/picture2.png);
   margin-top: -20px;
   padding-top: 100px;
-  color:#FFFFFF;
+
   text-align:center;
   min-height:500px;
 }
 
 .form-group {
   text-align:center;
+}
+
+.navbar-default {
+
+
+  min_height:100px;
 }
